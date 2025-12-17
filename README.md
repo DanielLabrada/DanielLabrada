@@ -1,5 +1,4 @@
- <img src="https://github.com/DanielLabrada/DanielLabrada/blob/c1aadf7ead82c8a709508d8f9a2b3dd1400bbf9a/images/Aule.jpg" alt="aule" width="300">
-
+ <img src="https://github.com/DanielLabrada/DanielLabrada/blob/6a3d30c871396c89d7b7f8108b2879a5332c9a58/images/Aule.jpg" alt="aule" width="100%">
 ## Hi there 👋
 My name is Daniel and I like to do things! I enjoy the creative process; I love building something where there was nothing before, and for that, I entrust myself to Aule the Craftsman.
 
